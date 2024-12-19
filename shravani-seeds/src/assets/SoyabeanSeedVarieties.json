@@ -1,0 +1,171 @@
+[
+    {
+        "id": 1,
+        "name": "JS-335",
+        "duration": "100 to 105 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "18 to 20 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 2,
+        "name": "JS-9305",
+        "duration": "90 to 95 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "18 to 20 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 3,
+        "name": "RVSM-1135",
+        "duration": "100 to 105 days",
+        "yield": "10-12 quintals per acre",
+        "seed_rate": "18 to 20 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 4,
+        "name": "RVS-2024",
+        "duration": "90 to 95 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "18 to 20 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 5,
+        "name": "BLACK-BOLD",
+        "duration": "80 to 85 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "22 to 25 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 6,
+        "name": "JS-2303",
+        "duration": "90 to 95 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "15 to 18 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 7,
+        "name": "JS-9560",
+        "duration": "80 to 85 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "25 to 28 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 8,
+        "name": "JS-2172",
+        "flower": "White",
+        "duration": "90 to 95 days",
+        "yield": "10-12 quintals per acre",
+        "seed_rate": "18 to 20 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 9,
+        "name": "JS-2218",
+        "duration": "90 to 95 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "18 to 20 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 10,
+        "name": "RAJ-SOYA-18",
+        "duration": "90 to 95 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "15 to 18 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 11,
+        "name": "RVSM-1204",
+        "duration": "90 to 95 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "18 to 20 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 12,
+        "name": "RVSM-1104",
+        "duration": "95 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "15 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 13,
+        "name": "RVSM-1210",
+        "duration": "90 to 95 days",
+        "yield": "10-11 quintals per acre",
+        "seed_rate": "18 to 20 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 15,
+        "name": "NRC-130",
+        "duration": "90 to 95 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "20 to 22 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 17,
+        "name": "JS-2034",
+        "duration": "80 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "15 to 18 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 18,
+        "name": "PS-1569",
+        "duration": "80 to 85 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "15 to 18 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 20,
+        "name": "TS-213",
+        "duration": "85 to 90 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "22 to 25 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 21,
+        "name": "JS-2216",
+        "duration": "85 to 90 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "15 to 18 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 22,
+        "name": "JS-2069",
+        "duration": "95 to 100 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "20 to 22 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 23,
+        "name": "9041",
+        "duration": "90 to 95 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "22 to 25 kg",
+        "type": "Soyabean Seed"
+    },
+    {
+        "id": 27,
+        "name": "KDS-726",
+        "duration": "110 to 115 days",
+        "yield": "8-10 quintals per acre",
+        "seed_rate": "13 to 15 kg",
+        "type": "Soyabean Seed"
+    }
+]
